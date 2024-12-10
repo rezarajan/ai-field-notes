@@ -1,4 +1,4 @@
-AI systems may be described by identifying their class and category.
+AI systems may be described by identifying their class, category and architecture.
 ## Class
 The class of an AI system describes the extent to which they are able to mimic human cognition and abilities. There are two main classes: [[Weak AI]] and [[Strong AI]].
 
