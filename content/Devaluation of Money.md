@@ -1,0 +1,4 @@
+## Devaluation of Money
+Take for example the collapsing economy of Argentina, many of the failed states in Africa, and throughout the history of Europe. Even the US dollar has had a massive decline in value over the recent years (08/12/2024). This is because there is no constraint on the printing of money; as of 2024 America has 35 Trillion dollars in national debt and by the year 2030 there is a very strong possibility that the debt will exceed 50 Trillion dollars, which will exceed the GDP and exceed the ability to repay through taxation. This is indeed a global issue; the way these money systems work, there is short-term political benefit to being fiscally insolvent that eventually collapse the economy.
+
+A related topic is in Islam, the concept of [[Riba Explained - Halal Economics|Riba]] which directly addresses this issue and goes against the current money systems of the world.

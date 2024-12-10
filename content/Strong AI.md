@@ -1,0 +1,1 @@
+Strong AI, or artificial general intelligence (AGI), refers to AI systems which have the capability to reason, construct mental abilities and learn from experiences. They provide the ability to truly make decisions with situational awareness, and adapt to changing environments as needed. This is the next step in the evolution of AI systems.

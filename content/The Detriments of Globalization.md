@@ -1,0 +1,3 @@
+A world that is increasingly globalized means that people's political representation diminishes. The benefits of globalization are that you have cheaper goods and faster travel, and faster movement of ideas and commerce. However, it also translates to the political institutions we're born in having less of a say of the day-to-day lives of each and every person living in a country.
+
+Combined with the fact that people [[Institutional and Knowledge Decay in Society|no longer have trust in institutions]], globalization creates [[Exponential Companies|"super institutions"]] and nobody will have trust in the global order.

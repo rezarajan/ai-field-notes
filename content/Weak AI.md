@@ -1,0 +1,1 @@
+Weak AI refers to AI systems which mimic only specific areas of human cognition, without much consideration of learning from prior experiences. In other words, they lack the ability to reason and evolve, and are limited by the data on which they were trained. All AI systems currently in existence are categorized as weak AI (06/12/2024).

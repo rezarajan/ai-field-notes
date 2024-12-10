@@ -1,0 +1,4 @@
+## Exponential Companies
+These companies result from a situation where a small group of people can have control over something that can influence the lives of billions of people. Take for example internet-scale companies: despite the fact that they have billions of customers and users, the number of decision-makers driving these companies is relatively small, maybe in the hundreds.
+
+With AI enabling faster and more efficient growth and scalability, it may be possible that in a few years there may be a company run by just 10 people, be worth a trillion dollars and have influence and effects over billions of people. **The means of production will be controlled by a very small group of people.** The effects further exacerbate the problem of [[Institutional and Knowledge Decay in Society]].
